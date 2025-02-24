@@ -30,6 +30,6 @@ This project explores **two major markets**:
 If you're interested in collaborating, feel free to reach out:
 - **LinkedIn**: [LinkedIn]((https://www.linkedin.com/in/john-biju-varghese-014835230/))
 - **GitHub**: [GitHub]([#](https://github.com/johnnie19))
-- **Email**: [your.email@example.com](mailto:john.bijuv@gmail.com)
+- **Email**: [john.bijuv@gmail.com](mailto:john.bijuv@gmail.com)
 
 ---
