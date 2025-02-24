@@ -17,8 +17,7 @@ This project explores **two major markets**:
 - `notebooks/` → Jupyter Notebooks for analysis.
 
 ## 🛠 Tech Stack
-- **Python** (Pandas, Matplotlib)
-- **SQL** (BigQuery)
+- **Python** (Pandas, Matplotlib, Seaborn)
 - **Power BI** (Data Visualization)
 - **Jupyter Notebooks**
 
