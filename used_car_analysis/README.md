@@ -13,6 +13,5 @@ This project analyzes **pricing trends, mileage impact, and geographical variati
 
 ## 📈 Tools Used
 - **Python**: Pandas, Matplotlib, Seaborn
-- **SQL**: BigQuery
 - **Power BI**: Data Visualization
 
